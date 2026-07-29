@@ -3802,7 +3802,7 @@ type
     CEF_CTBT_SEND_TAB_TO_SELF_DEPRECATED,   {* CEF_API_ADDED(13600) *}
     CEF_CTBT_SIDE_PANEL_DEPRECATED,         {* CEF_API_ADDED(14000) *}
     CEF_CTBT_MEDIA,                         {* CEF_API_ADDED(14000) *}
-    CEF_CTBT_TAB_SEARCH,                    {* CEF_API_ADDED(14000) *}
+    CEF_CTBT_TAB_SEARCH_DEPRECATED,         {* CEF_API_ADDED(15100) *}
     CEF_CTBT_BATTERY_SAVER,                 {* CEF_API_ADDED(14000) *}
     CEF_CTBT_AVATAR,                        {* CEF_API_ADDED(14000) *}
     CEF_CTBT_NUM_VALUES
@@ -5809,6 +5809,7 @@ type
     /// users.
     /// </summary>
     CEF_CONTENT_SETTING_TYPE_SUB_APPS_WITHOUT_PROMPTS,                           {* CEF_API_ADDED(15000) *}
+    CEF_CONTENT_SETTING_TYPE_INLINE_CUE_MENU,                                    {* CEF_API_ADDED(15100) *}
     CEF_CONTENT_SETTING_TYPE_NUM_VALUES
   );
 
