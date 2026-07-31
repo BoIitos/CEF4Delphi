@@ -2325,6 +2325,10 @@
 <param name="Local" value="uCEFLibFunctions.html#cef_value_create">
 </object>
 <li><object type="text/sitemap">
+<param name="Name" value="cef_version_full">
+<param name="Local" value="uCEFLibFunctions.html#cef_version_full">
+</object>
+<li><object type="text/sitemap">
 <param name="Name" value="cef_version_info">
 <param name="Local" value="uCEFLibFunctions.html#cef_version_info">
 </object>
@@ -17671,6 +17675,10 @@
 <param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#GetUsedMemory">
 </object>
 <li><object type="text/sitemap">
+<param name="Name" value="GetVersionFull">
+<param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#GetVersionFull">
+</object>
+<li><object type="text/sitemap">
 <param name="Name" value="GlobalContextInitialized">
 <param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#GlobalContextInitialized">
 </object>
@@ -18389,6 +18397,10 @@
 <li><object type="text/sitemap">
 <param name="Name" value="ValidComponentID">
 <param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#ValidComponentID-integer-">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="VersionFull">
+<param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#VersionFull">
 </object>
 <li><object type="text/sitemap">
 <param name="Name" value="WindowlessRenderingEnabled">
@@ -36245,6 +36257,26 @@
 <li><object type="text/sitemap">
 <param name="Name" value="chrome_version_patch">
 <param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#chrome_version_patch">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="installer_error_code">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#installer_error_code">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="installer_error_message">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#installer_error_message">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="libcef_is_bundled">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#libcef_is_bundled">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="libcef_path">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#libcef_path">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="libcef_version_full">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#libcef_version_full">
 </object>
 <li><object type="text/sitemap">
 <param name="Name" value="sandbox_compat_hash">

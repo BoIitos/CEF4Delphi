@@ -1626,6 +1626,10 @@
 <param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#UseAngle">
 </object>
 <li><object type="text/sitemap">
+<param name="Name" value="VersionFull">
+<param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#VersionFull">
+</object>
+<li><object type="text/sitemap">
 <param name="Name" value="OnRegCustomSchemes">
 <param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#OnRegCustomSchemes">
 </object>
@@ -1846,6 +1850,10 @@
 <li><object type="text/sitemap">
 <param name="Name" value="GetCookiesDir">
 <param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#GetCookiesDir">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="GetVersionFull">
+<param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#GetVersionFull">
 </object>
 <li><object type="text/sitemap">
 <param name="Name" value="LoadCEFlibrary">
@@ -42171,6 +42179,26 @@
 <param name="Name" value="sandbox_compat_hash">
 <param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#sandbox_compat_hash">
 </object>
+<li><object type="text/sitemap">
+<param name="Name" value="libcef_path">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#libcef_path">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="libcef_is_bundled">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#libcef_is_bundled">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="libcef_version_full">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#libcef_version_full">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="installer_error_code">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#installer_error_code">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="installer_error_message">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#installer_error_message">
+</object>
 </ul>
 </ul>
 <li><object type="text/sitemap">
@@ -70280,6 +70308,10 @@
 <param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#UseViewsDefaultPopup">
 </object>
 <li><object type="text/sitemap">
+<param name="Name" value="VersionFull">
+<param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#VersionFull">
+</object>
+<li><object type="text/sitemap">
 <param name="Name" value="WindowlessRenderingEnabled">
 <param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#WindowlessRenderingEnabled">
 </object>
@@ -70468,6 +70500,10 @@
 <li><object type="text/sitemap">
 <param name="Name" value="GetUsedMemory">
 <param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#GetUsedMemory">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="GetVersionFull">
+<param name="Local" value="uCEFApplicationCore.TCefApplicationCore.html#GetVersionFull">
 </object>
 <li><object type="text/sitemap">
 <param name="Name" value="InitializeLibrary">
@@ -92136,6 +92172,26 @@
 <li><object type="text/sitemap">
 <param name="Name" value="chrome_version_patch">
 <param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#chrome_version_patch">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="installer_error_code">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#installer_error_code">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="installer_error_message">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#installer_error_message">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="libcef_is_bundled">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#libcef_is_bundled">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="libcef_path">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#libcef_path">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="libcef_version_full">
+<param name="Local" value="uCEFTypes.TCefVersionInfoEx.html#libcef_version_full">
 </object>
 <li><object type="text/sitemap">
 <param name="Name" value="sandbox_compat_hash">
